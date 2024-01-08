@@ -1,51 +1,51 @@
 @font-face {
   font-family: "Pistilli Pro";
-  src: url("/public/PistilliPro-Black.otf");
+  src: url("./public/PistilliPro-Black.otf");
   font-weight: 900;
 }
 @font-face {
   font-family: "Hiragino Kaku Gothic StdN";
-  src: url("/public/HiraginoKaku-StdN-W4.otf");
+  src: url("./public/HiraginoKaku-StdN-W4.otf");
   font-weight: 400;
 }
 @font-face {
   font-family: "RyuminPro Bold";
-  src: url("/public/A-OTF-RyuminPro-Bold.otf");
+  src: url("./public/A-OTF-RyuminPro-Bold.otf");
   font-weight: 400;
 }
 @font-face {
   font-family: "RyuminPro ExBold";
-  src: url("/public/A-OTF-RyuminPro-ExBold.otf");
+  src: url("./public/A-OTF-RyuminPro-ExBold.otf");
   font-weight: 400;
 }
 @font-face {
   font-family: "RyuminPro ExHeavy";
-  src: url("/public/A-OTF-RyuminPro-ExHeavy.otf");
+  src: url("./public/A-OTF-RyuminPro-ExHeavy.otf");
   font-weight: 400;
 }
 @font-face {
   font-family: "RyuminPro Heavy";
-  src: url("/public/A-OTF-RyuminPro-Heavy.otf");
+  src: url("./public/A-OTF-RyuminPro-Heavy.otf");
   font-weight: 400;
 }
 @font-face {
   font-family: "RyuminPro Light";
-  src: url("/public/A-OTF-RyuminPro-Light.otf");
+  src: url("./public/A-OTF-RyuminPro-Light.otf");
   font-weight: 400;
 }
 @font-face {
   font-family: "RyuminPro Medium";
-  src: url("/public/A-OTF-RyuminPro-Medium.otf");
+  src: url("./public/A-OTF-RyuminPro-Medium.otf");
   font-weight: 400;
 }
 @font-face {
   font-family: "RyuminPro Regular";
-  src: url("/public/A-OTF-RyuminPro-Regular.otf");
+  src: url("./public/A-OTF-RyuminPro-Regular.otf");
   font-weight: 400;
 }
 @font-face {
   font-family: "RyuminPro Ultra";
-  src: url("/public/A-OTF-RyuminPro-Ultra.otf");
+  src: url("./public/A-OTF-RyuminPro-Ultra.otf");
   font-weight: 400;
 }
 
@@ -94,7 +94,7 @@
 }
 
 .bg-cover-r {
-  background-image: url("/public/back-r.jpg");
+  background-image: url("./public/back-r.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -106,13 +106,13 @@
 }
 
 .bg-cover-w {
-  background-image: url("/public/back-w.jpg");
+  background-image: url("./public/back-w.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .background-r {
-  background-image: url("/public/Backgroundcover-r.png");
+  background-image: url("./public/Backgroundcover-r.png");
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
@@ -121,7 +121,7 @@
 }
 
 .background-g {
-  background-image: url("/public/Backgroundcover-g.png");
+  background-image: url("./public/Backgroundcover-g.png");
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
@@ -130,7 +130,7 @@
 }
 
 .background-w {
-  background-image: url("/public/Backgroundcover-w.png");
+  background-image: url("./public/Backgroundcover-w.png");
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
