@@ -100,7 +100,7 @@
 }
 
 .bg-cover-g {
-  background-image: url("/public/back-g.png");
+  background-image: url("./public/back-g.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
