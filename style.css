@@ -94,7 +94,7 @@
 }
 
 .bg-cover-r {
-  background-image: url("/public/back-r.jpg");
+  background-image: url("./public/back-r.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
